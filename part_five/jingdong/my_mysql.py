@@ -7,17 +7,21 @@ def save_goods_info_to_mysql(info_list):
         cursor = db_connection.cursor()
         for info in info_list:
             for key, value in info.items():
-                sql = "insert into goods(computer_part,computer_info) " \
-                      "values (\"%s\",\"%s\")" % (key,value)
+                sql = "insert into goods(name,description) " \
+                      "values (\"%s\",\"%s\")" % (key, value)
                 print(sql)
                 cursor.execute(sql)
                 db_connection.commit()
+        # sql = "insert into goods(name,description) values ('电脑','苹果电脑')"
+        # print(sql)
+        # cursor.execute(sql)
+        # db_connection.commit()
     finally:
-        close_db(db_connection,cursor)
+        close_db(db_connection, cursor)
 
 
 def get_connection():
-    db_connection = pymysql.onnect(
+    db_connection = pymysql.Connect(
         host="localhost",
         user="admin",
         password="123456",
@@ -27,6 +31,10 @@ def get_connection():
     return db_connection
 
 
-def close_db(db_connection,cursor):
+def close_db(db_connection, cursor):
     cursor.close()
     db_connection.close()
+
+
+# if __name__ == "__main__":
+#     save_goods_info_to_mysql()
