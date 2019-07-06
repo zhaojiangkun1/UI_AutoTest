@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="019cc3c0-66b4-4a65-bf05-3f1d43bc11cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookiesjd.cookies" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part_five/remote_start_jingdong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_seven/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_seven/my_metaclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_six/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_six/my_wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_six/person.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part_five/connect_remote_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_five/connect_remote_server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part_five/jingdong/jingdong.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_five/jingdong/jingdong.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part_five/jingdong/my_mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_five/jingdong/my_mysql.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,16 +20,19 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Python3_6$my_mysql.coverage" NAME="my_mysql Coverage Results" MODIFIED="1562231294571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part_five/jingdong" />
+    <SUITE FILE_PATH="coverage/Python3_6$connect_remote_server.coverage" NAME="connect_remote_server Coverage Results" MODIFIED="1562229195110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part_five" />
+    <SUITE FILE_PATH="coverage/Python3_6$person.coverage" NAME="person Coverage Results" MODIFIED="1562416184811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part_six" />
+    <SUITE FILE_PATH="coverage/Python3_6$js_location.coverage" NAME="js_location Coverage Results" MODIFIED="1561273981172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part_one" />
+    <SUITE FILE_PATH="coverage/Python3_6$jingdong1.coverage" NAME="jingdong1 Coverage Results" MODIFIED="1561343943202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part_two" />
+    <SUITE FILE_PATH="coverage/Python3_6$get_shuzu_cookies.coverage" NAME="get_shuzu_cookies Coverage Results" MODIFIED="1561538931320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part_two" />
+    <SUITE FILE_PATH="coverage/Python3_6$my_wait.coverage" NAME="my_wait Coverage Results" MODIFIED="1562415795023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part_six" />
     <SUITE FILE_PATH="coverage/Python3_6$jingdong__1_.coverage" NAME="jingdong (1) Coverage Results" MODIFIED="1562230223424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part_five/jingdong" />
     <SUITE FILE_PATH="coverage/Python3_6$my_cookies.coverage" NAME="my_cookies Coverage Results" MODIFIED="1561255168368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part_one" />
     <SUITE FILE_PATH="coverage/Python3_6$get_cookies.coverage" NAME="get_cookies Coverage Results" MODIFIED="1561363229050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part_two" />
-    <SUITE FILE_PATH="coverage/Python3_6$connect_remote_server.coverage" NAME="connect_remote_server Coverage Results" MODIFIED="1562229195110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part_five" />
-    <SUITE FILE_PATH="coverage/Python3_6$js_location.coverage" NAME="js_location Coverage Results" MODIFIED="1561273981172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part_one" />
-    <SUITE FILE_PATH="coverage/Python3_6$jingdong1.coverage" NAME="jingdong1 Coverage Results" MODIFIED="1561343943202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part_two" />
     <SUITE FILE_PATH="coverage/Python3_6$jingdong.coverage" NAME="jingdong Coverage Results" MODIFIED="1561368271304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part_two" />
     <SUITE FILE_PATH="coverage/Python3_6$my_mysql_connection.coverage" NAME="my_mysql_connection Coverage Results" MODIFIED="1561950434937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part_five" />
-    <SUITE FILE_PATH="coverage/Python3_6$get_shuzu_cookies.coverage" NAME="get_shuzu_cookies Coverage Results" MODIFIED="1561538931320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part_two" />
     <SUITE FILE_PATH="coverage/Python3_6$remote_start_jingdong.coverage" NAME="remote_start_jingdong Coverage Results" MODIFIED="1562294086451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part_five" />
+    <SUITE FILE_PATH="coverage/Python3_6$my_metaclass.coverage" NAME="my_metaclass Coverage Results" MODIFIED="1562417437004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part_seven" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -49,8 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/part_five/remote_start_jingdong.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" column="39" lean-forward="true" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+            <state relative-caret-position="-270">
+              <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -61,17 +63,47 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/part_five/jingdong/jingdong.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="62" column="17" lean-forward="true" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+            <state relative-caret-position="780">
+              <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/part_five/jingdong/my_mysql.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-30">
+              <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/part_six/my_wait.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/part_five/jingdong/my_mysql.py">
+        <entry file="file://$PROJECT_DIR$/part_seven/my_metaclass.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
+            <state relative-caret-position="195">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/part_six/person.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -105,6 +137,9 @@
         <option value="$PROJECT_DIR$/part_five/remote_start_jingdong.py" />
         <option value="$PROJECT_DIR$/part_five/jingdong/jingdong.py" />
         <option value="$PROJECT_DIR$/part_five/jingdong/my_mysql.py" />
+        <option value="$PROJECT_DIR$/part_six/my_wait.py" />
+        <option value="$PROJECT_DIR$/part_six/person.py" />
+        <option value="$PROJECT_DIR$/part_seven/my_metaclass.py" />
       </list>
     </option>
   </component>
@@ -131,18 +166,7 @@
             <path>
               <item name="Python3.6" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python3.6" type="462c0819:PsiDirectoryNode" />
-              <item name="part_five" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python3.6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python3.6" type="462c0819:PsiDirectoryNode" />
-              <item name="part_five" type="462c0819:PsiDirectoryNode" />
-              <item name="jingdong" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python3.6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python3.6" type="462c0819:PsiDirectoryNode" />
-              <item name="part_two" type="462c0819:PsiDirectoryNode" />
+              <item name="part_seven" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python3.6" type="b2602c69:ProjectViewProjectNode" />
@@ -174,8 +198,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.remote_start_jingdong">
-    <configuration name="connect_remote_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.my_metaclass">
+    <configuration name="my_metaclass" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python3.6" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,34 +207,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_five" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_seven" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_five/connect_remote_server.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="jingdong (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python3.6" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_five/jingdong" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_five/jingdong/jingdong.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_seven/my_metaclass.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,7 +243,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="my_mysql_connection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="my_wait" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python3.6" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,12 +251,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_five" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_six" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_five/my_mysql_connection.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_six/my_wait.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="person" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python3.6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_six" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_six/person.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,11 +311,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.my_metaclass" />
+        <item itemvalue="Python.person" />
+        <item itemvalue="Python.my_wait" />
         <item itemvalue="Python.remote_start_jingdong" />
         <item itemvalue="Python.my_mysql" />
-        <item itemvalue="Python.jingdong (1)" />
-        <item itemvalue="Python.connect_remote_server" />
-        <item itemvalue="Python.my_mysql_connection" />
       </list>
     </recent_temporary>
   </component>
@@ -322,12 +346,13 @@
       <workItem from="1562117813700" duration="10301000" />
       <workItem from="1562205032853" duration="12901000" />
       <workItem from="1562247832157" duration="1694000" />
-      <workItem from="1562292379518" duration="4004000" />
+      <workItem from="1562292379518" duration="4868000" />
+      <workItem from="1562414693969" duration="3312000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88292000" />
+    <option name="totallyTimeSpent" value="92468000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -340,14 +365,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31367293" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31769437" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31303117" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4631728" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44050992" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4631728" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.19971672" />
@@ -355,7 +381,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.4362606" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.30736545" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -523,6 +549,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="393" selection-start-line="393" selection-end-line="393" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/part_five/jingdong/my_cookies.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -533,34 +566,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/part_five/jingdong/jingdong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part_five/jingdong/my_mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/part_five/remote_start_jingdong.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="39" lean-forward="true" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        <state relative-caret-position="-270">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+    <entry file="file://$PROJECT_DIR$/part_six/person.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="393" selection-start-line="393" selection-end-line="393" />
+        <state relative-caret-position="330">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/part_five/jingdong/jingdong.py">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/support/wait.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="62" column="17" lean-forward="true" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+        <state relative-caret-position="63">
+          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/part_five/jingdong/my_mysql.py">
+    <entry file="file://$PROJECT_DIR$/part_six/my_wait.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
+        <state relative-caret-position="135">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part_seven/my_metaclass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
